@@ -6,3 +6,6 @@ Some description
 
 Learning how to use Github
 
+## Learning
+
+1.Read and understand
